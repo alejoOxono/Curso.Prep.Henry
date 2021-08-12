@@ -1,0 +1,21 @@
+
+h1 {
+    color: darkblue;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background: url('https://cdn.pixabay.com/photo/2016/05/31/15/34/nodes-1427176_960_720.png');
+    padding: 50px;
+    border: 2px black solid;
+}
+
+#spanId{
+    margin: 50px;
+    font-size: 18px;
+}

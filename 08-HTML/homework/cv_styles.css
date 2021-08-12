@@ -1,0 +1,67 @@
+h1 {
+    color : red;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 130%;
+}
+
+.img-circular {
+    border-radius: 50%;
+    padding: 60px 20px;
+}
+
+.sub-perfil-border {
+    text-align: center;
+    padding: 120px 100px;
+}
+
+.border-perfil {
+    display: flex;
+    background-color: #3188ba;
+    padding: 250px 20 px;
+}
+
+li {
+    margin: 5px;
+    margin-left: 50px;
+}
+
+main {
+    display: flex;
+}
+
+
+.contenido {
+    padding-top: 50px;
+    width: 30%;
+    border: 1px solid gray;
+    background-color: gray;
+}
+
+.informacion {
+    margin: 0 auto;
+}
+
+.divCenter {
+    width: 70%;
+    background-color: white;
+    padding: 10px 80px;
+}
+
+.sub-lis-skills {
+    padding: 10px 50px;
+}
+
+.div-section-datos {
+    display: flex;
+    padding: 30px 200px;
+}
+
+.div-datos > p {
+
+    color: red;
+    display: none;
+    font-size: xx-small;
+}
